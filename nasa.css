@@ -51,7 +51,7 @@ justify-content: center;
   margin: 20px auto;    
   max-width: 90%;       
   height: auto;         
-  border-radius: 15px;   
+  border-radius: 25px;  
 }
 
 #botones{
@@ -73,7 +73,6 @@ button:hover {
     transition: 1s;
 }   
 
-::selection{
-    background-color:#ff0505;
-    color: #fff;
+#imagenFecha{
+    max-width: 500px;
 }
